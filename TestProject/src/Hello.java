@@ -6,7 +6,7 @@ public class Hello {
 		System.out.println("Hello GIT");
 		
 		System.out.println("Added by Sarathy");
-		System.out.println("This is a Test by Sarath NEW");
+		System.out.println("This is a Test by Sarathy NEW");
 	}
 
 }
