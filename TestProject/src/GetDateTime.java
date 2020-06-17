@@ -12,7 +12,7 @@ public class GetDateTime {
 	      day = date.get(Calendar.DAY_OF_MONTH);
 	      month = date.get(Calendar.MONTH);
 	      year = date.get(Calendar.YEAR);
-	     
+	     System.out.println("DATE & TIME:");
 	      second = date.get(Calendar.SECOND);
 	      minute = date.get(Calendar.MINUTE);
 	      hour = date.get(Calendar.HOUR);
