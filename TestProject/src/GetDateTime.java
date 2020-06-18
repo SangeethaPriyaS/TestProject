@@ -3,11 +3,13 @@ public class GetDateTime {
 
 	public static void main(String[] args)
 	{
-		System.out.println("GITK1");
-		 System.out.println("GITHUB");
-		 System.out.println("To print date and time");
+
+		System.out.println("Resolving :  GITK1  GITK");
+
+		System.out.println("GITHUB");
+		System.out.println("To print date and time");
 		int day, month, year;
-	      int second, minute, hour;
+	     int second, minute, hour;
 	      GregorianCalendar date = new GregorianCalendar();
 	     
 	      day = date.get(Calendar.DAY_OF_MONTH);
