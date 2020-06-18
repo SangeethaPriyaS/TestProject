@@ -3,6 +3,7 @@ public class GetDateTime {
 
 	public static void main(String[] args)
 	{
+		System.out.println("GITK1");
 		 System.out.println("GITHUB");
 		 System.out.println("To print date and time");
 		int day, month, year;
